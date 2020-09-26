@@ -4,6 +4,8 @@ This is a collection of algorithms discussed in "Numerical Methods" course.
 
 ## Contents
 
+Below is the description of Jupyter notebooks present in this repo:
+
 #### 1. [Root finding](root-finding.ipynb)
 
 Finding solutions for equations of the form `f(x) = 0`.
@@ -12,3 +14,6 @@ Finding solutions for equations of the form `f(x) = 0`.
 
 - System of linear equations: Finding solutions of system of linear equations (`AX = B`).
 - System of non-linear equations
+
+[Python-scripts](Python-scripts) folder contains python scripts for the above
+numerical methods.
