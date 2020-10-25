@@ -15,5 +15,8 @@ Finding solutions for equations of the form `f(x) = 0`.
 - System of linear equations: Finding solutions of system of linear equations (`AX = B`).
 - System of non-linear equations
 
+#### 3. [Interpolation](interpolation.ipynb)
+
+
 [Python-scripts](Python-scripts) folder contains python scripts for the above
 numerical methods.
