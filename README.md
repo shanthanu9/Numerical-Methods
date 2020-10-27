@@ -17,6 +17,7 @@ Finding solutions for equations of the form `f(x) = 0`.
 
 #### 3. [Interpolation](interpolation.ipynb)
 
+Given set of values x and y, "guess" a function that fits the given pairs of points.
 
 [Python-scripts](Python-scripts) folder contains python scripts for the above
 numerical methods.
