@@ -19,5 +19,9 @@ Finding solutions for equations of the form `f(x) = 0`.
 
 Given set of values x and y, "guess" a function that fits the given pairs of points.
 
+#### 4. [Numerical Differenciataion](numerical-differenciation.ipynb)
+
+Numericals methods to obtain derivative and second derivative at a point of a function.
+
 [Python-scripts](Python-scripts) folder contains python scripts for the above
 numerical methods.
