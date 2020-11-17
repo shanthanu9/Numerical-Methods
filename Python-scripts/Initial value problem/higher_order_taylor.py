@@ -33,6 +33,6 @@ f.append(lambda x,y: y-x**2-2*x-1)
 assert len(f)>=n, 'Coefficients of taylor polynomial do not match order' 
 
 # actual value of function, used to compute error
-y_exact = lambda x,y: x+1-0.5*math.e**x  
+y_exact = lambda x,y: (x+1)**2-0.5*math.e**x  
 
 taylor()

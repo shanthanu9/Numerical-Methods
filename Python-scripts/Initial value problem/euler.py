@@ -5,8 +5,8 @@ def euler():
     y=y0
     print('approximations:')
     for i in range(0,N+1):
-        print('N:',i,'x=',x,'is y=',y,'exact y=',y_exact(x,y),'abs error=',abs(y_exact(x,y)-y))
-        # print('N:',i,'x=',x,'is y=',y)
+        # print('N:',i,'x=',x,'is y=',y,'exact y=',y_exact(x,y),'abs error=',abs(y_exact(x,y)-y))
+        print('N:',i,'x=',x,'is y=',y)
         y=y+h*f(x,y)
         x=x+h
 
