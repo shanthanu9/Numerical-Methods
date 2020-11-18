@@ -2,7 +2,7 @@
 
 This is a collection of algorithms discussed in "Numerical Methods" course.
 
-**NOTE**: [Python-scripts](Python-scripts) folder contains python scripts for the above
+**NOTE**: [Python-scripts](Python-scripts) folder contains python scripts for the below
 numerical methods.
 
 ## Contents
