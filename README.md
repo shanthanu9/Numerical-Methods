@@ -2,9 +2,6 @@
 
 This is a collection of algorithms discussed in "Numerical Methods" course.
 
-**NOTE**: [Python-scripts](Python-scripts) folder contains python scripts for the below
-numerical methods.
-
 ## Contents
 
 Below is the description of Jupyter notebooks present in this repo:
@@ -34,3 +31,6 @@ Numerical methods to compute definite integrals.
 
 Numerical methods to obtain approximate solutions for well-posed Initial Value
 Problems for Ordinary Differential Equations.
+
+**NOTE**: `Python-scripts` folder contains python scripts for the above
+numerical methods.
