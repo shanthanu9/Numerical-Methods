@@ -2,6 +2,9 @@
 
 This is a collection of algorithms discussed in "Numerical Methods" course.
 
+**NOTE**: [Python-scripts](Python-scripts) folder contains python scripts for the above
+numerical methods.
+
 ## Contents
 
 Below is the description of Jupyter notebooks present in this repo:
@@ -23,5 +26,11 @@ Given set of values x and y, "guess" a function that fits the given pairs of poi
 
 Numericals methods to obtain derivative and second derivative at a point of a function.
 
-[Python-scripts](Python-scripts) folder contains python scripts for the above
-numerical methods.
+#### 5. [Numerical Integration](numerical-integration.ipynb)
+
+Numerical methods to compute definite integrals.
+
+#### 6. [IVP for ODEs](ivp-for-ode.ipynb)
+
+Numerical methods to obtain approximate solutions for well-posed Initial Value
+Problems for Ordinary Differential Equations.
